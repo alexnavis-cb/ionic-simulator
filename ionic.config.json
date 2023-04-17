@@ -1,0 +1,7 @@
+{
+  "name": "ionic-simulate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
